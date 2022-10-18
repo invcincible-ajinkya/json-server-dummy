@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Ajinkya Pathak",
+      "age": 28,
+      "dob": "March 28, 1993",
+      "email": "ajinkya.pathak@test.com",
+      "address": "Sirsala Maharashtra India"
+    },
+    {
+      "name": "Ajinkya Pathak",
+      "age": 28,
+      "dob": "March 28, 1993",
+      "email": "ajinkya.pathak@test.com",
+      "address": "Sirsala Maharashtra India"
+    },
+    {
+      "name": "Ajinkya Pathak",
+      "age": 28,
+      "dob": "March 28, 1993",
+      "email": "ajinkya.pathak@test.com",
+      "address": "Sirsala Maharashtra India"
+    },
+    {
+      "name": "Ajinkya Pathak",
+      "age": 28,
+      "dob": "March 28, 1993",
+      "email": "ajinkya.pathak@test.com",
+      "address": "Sirsala Maharashtra India"
+    }
+  ]
+}
